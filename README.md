@@ -15,3 +15,4 @@ A few notes:
 
 -This script assumes the CName is set up.  If it is not, a simple string replace with the cloudfront link to replace the cname will solve the issue.
 
+***** Use the creds.json file in the specs folder to input Brafton and Wistia keys and tokens. *******
